@@ -1,14 +1,10 @@
 ---
 
-<small>*本页内容按照收录时间倒序排列</small>
-
----
-
 #### Conferences | Workshops
 
-<small>*相关连接提供论文下载</small>
+<small>*Open Access</small>
 
-· 📘 [ICCV/CVPR] [Computer Vision Foundation Open Access](http://openaccess.thecvf.com/menu.py) 🎉 [ICCV17~13 CVPR17~13]
+· 📘 [ICCV/CVPR] [Computer Vision Foundation Open Access](http://openaccess.thecvf.com/menu.py) 🎉 [ICCV17~13] [CVPR17~13]
 
 · 📘 [NIPS] [Advances in Neural Information Processing Systems](http://papers.nips.cc/) 🎉 [NIPS17~87]
 
@@ -20,7 +16,7 @@
 
 #### Journals
 
-<small>*相关连接仅提供论文目录</small>
+<small>*Index</small>
 
 
 . 📓 [ADVAI] [Advances in Artificial Intelligence](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/advai/)
