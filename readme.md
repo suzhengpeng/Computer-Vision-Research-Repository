@@ -4,9 +4,9 @@
 
 <small>*Open Access</small>
 
-· 📘 [ICCV/CVPR] IEEE International Conference on Computer Vision / IEEE Conference on Computer Vision and Pattern Recognition 🎉 [[Computer Vision Foundation Open Access]](http://openaccess.thecvf.com/menu.py)
+· 📘 [ICCV/CVPR] IEEE International Conference on Computer Vision / IEEE Conference on Computer Vision and Pattern Recognition 🎉 [[CVF Open Access]](http://openaccess.thecvf.com/menu.py)
 
-· 📘 [NIPS] Neural Information Processing Systems Conference 🎉 [[Advances in Neural Information Processing Systems]](http://papers.nips.cc/)
+· 📘 [NIPS] Neural Information Processing Systems Conference 🎉 [[Advances in NIPS]](http://papers.nips.cc/)
 
 . 📘 [AAAI] the Association for the Advance of Artificial Intelligence Conference 🎉 [[AAAI Digital Library]](https://aaai.org/Library/library.php)
 
