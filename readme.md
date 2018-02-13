@@ -12,7 +12,7 @@
 
 . 📘 [ECCV] European Conference on Computer Vision 🎉 [[SpringerLink]](https://link.springer.com/conference/eccv)
 
-. 📘 [CAIP] 🎉 [[SpringerLink]](https://link.springer.com/conference/caip) 
+. 📘 [CAIP] International Conference on Computer Analysis of Images and Patterns 🎉 [[SpringerLink]](https://link.springer.com/conference/caip) 
 
 ---
 
