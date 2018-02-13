@@ -59,6 +59,8 @@
 
 . 📓 [MIA] [Medical Image Analysis](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/mia/)
 
+. 📓 [MVA] [Machine Vision and Applications](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/mva/)
+
 . 📓 [PAMI] [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/pami/)
 
 . 📓 [PR] [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/pr/)
