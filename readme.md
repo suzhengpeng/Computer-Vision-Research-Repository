@@ -4,13 +4,20 @@
 
 <small>*Open Access</small>
 
-· 📘 [ICCV/CVPR] [Computer Vision Foundation Open Access](http://openaccess.thecvf.com/menu.py) 🎉 [ICCV17-13] [CVPR17-13]
+· 📘 [ICCV/CVPR] IEEE International Conference on Computer Vision / IEEE Conference on Computer Vision and Pattern Recognition 🎉 [[Computer Vision Foundation Open Access]](http://openaccess.thecvf.com/menu.py)
 
-· 📘 [NIPS] [Advances in Neural Information Processing Systems](http://papers.nips.cc/) 🎉 [NIPS17-87]
+· 📘 [NIPS] Neural Information Processing Systems Conference 🎉 [[Advances in Neural Information Processing Systems]](http://papers.nips.cc/)
 
-. 📘 [ECCV] [European Conference on Computer Vision](https://link.springer.com/conference/eccv) 🎉 [ECCV16-90]
+. 📘 [AAAI] the Association for the Advance of Artificial Intelligence Conference 🎉 [[AAAI Digital Library]](https://aaai.org/Library/library.php)
 
-. 📘 [AAAI] [AAAI Digital Library](https://aaai.org/Library/library.php)
+. 📘 [ECCV] European Conference on Computer Vision 🎉 [[SpringerLink]](https://link.springer.com/conference/eccv)
+
+. 📘 [CAIP] 🎉 [[SpringerLink]](https://link.springer.com/conference/caip) 
+---
+
+#### ArXiv
+
+. 💎 [CoRR] The Computing Research Repository [[ArXiv]](https://arxiv.org/corr/home) [[DBLP]](http://dblp.uni-trier.de/db/journals/corr/index.html) [[cs.CV]](https://arxiv.org/list/cs.CV/recent)
 
 ---
 
@@ -101,7 +108,7 @@
 
 ---
 
-#### Institute
+#### Orgnizations , Institutes and Teams
 
 . 🇨🇭 ETH Zurich Computer Vision Lab [🏛](http://www.vision.ee.ethz.ch/)
 
