@@ -4,11 +4,11 @@
 
 <small>*Open Access</small>
 
-· 📘 [ICCV/CVPR] [Computer Vision Foundation Open Access](http://openaccess.thecvf.com/menu.py) 🎉 [ICCV17~13] [CVPR17~13]
+· 📘 [ICCV/CVPR] [Computer Vision Foundation Open Access](http://openaccess.thecvf.com/menu.py) 🎉 [ICCV17-13] [CVPR17-13]
 
-· 📘 [NIPS] [Advances in Neural Information Processing Systems](http://papers.nips.cc/) 🎉 [NIPS17~87]
+· 📘 [NIPS] [Advances in Neural Information Processing Systems](http://papers.nips.cc/) 🎉 [NIPS17-87]
 
-. 📘 [ECCV] [European Conference on Computer Vision](https://link.springer.com/conference/eccv) 🎉 [ECCV16~90]
+. 📘 [ECCV] [European Conference on Computer Vision](https://link.springer.com/conference/eccv) 🎉 [ECCV16-90]
 
 . 📘 [AAAI] [AAAI Digital Library](https://aaai.org/Library/library.php)
 
