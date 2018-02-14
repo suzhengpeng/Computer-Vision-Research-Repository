@@ -1,8 +1,8 @@
 ---
 
-#### Conferences | Workshops
+#### Conferences & Workshops
 
-<small>*Open Access</small>
+*Open Access
 
 · 📘 [ICCV/CVPR] IEEE International Conference on Computer Vision / IEEE Conference on Computer Vision and Pattern Recognition 🎉 [[CVF Open Access]](http://openaccess.thecvf.com/menu.py)
 
@@ -12,7 +12,7 @@
 
 . 📘 [ECCV] European Conference on Computer Vision 🎉 [[SpringerLink]](https://link.springer.com/conference/eccv)
 
-. 📘 [CAIP] International Conference on Computer Analysis of Images and Patterns 🎉 [[SpringerLink]](https://link.springer.com/conference/caip) 
+. 📘 [CAIP] International Conference on Computer Analysis of Images and Patterns 🎉 [[SpringerLink]](https://link.springer.com/conference/caip)
 
 ---
 
@@ -24,7 +24,7 @@
 
 #### Journals
 
-<small>*Index</small>
+*Index
 
 
 . 📓 [ADVAI] [Advances in Artificial Intelligence](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/advai/)
@@ -81,31 +81,31 @@
 
 #### Scholars
 
-<small>*Scholar-Affiliation-Homepage-DBLP-Google_Scholar-Github-Twitter-Linkin-Weibo-Others </small>
-
-. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=lkWfR08AAAAJ)
+Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github] [Twitter] [Linkin] [Weibo] [Others]
 
 . 👤 [Jiri Matas] 🇨🇿 Professor at Czech Technical University [[Homepage]](http://cmp.felk.cvut.cz/~matas/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/m/Matas:Jiri) [[Linkin]](https://www.linkedin.com/in/jiri-matas-5627972b/)
 
 . 👤 [Ales Leonardis] 🇬🇧 Professor at University of Birmingham [[Homepage]](http://www.cs.bham.ac.uk/~leonarda/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/l/Leonardis:Ales)
 
-. 👤 [Shiqi Yu 于仕琪] 🇨🇳 Associate Professor at Shenzhen University (深圳大学) [[Homepage]](http://yushiqi.cn/)
+. 👤 [Shiqi Yu 于仕琪] 🇨🇳 Associate Professor at Shenzhen University (深圳大学) [[Homepage]](http://yushiqi.cn/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/y/Yu:Shiqi)
 
 . 👤 [Matej Kristan] 🇸🇮 Associate Professor at University of Ljubljana [[Homepage]](http://www.vicos.si/People/Matejk) [[DBLP]](http://dblp.uni-trier.de/pers/hd/k/Kristan:Matej)
 
-. 👤 [Ming-Hsuan Yang 杨明轩] 🇺🇸 professor at University of California, Merced [[Homepage]](http://faculty.ucmerced.edu/mhyang/) [[Google Scholar]](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=en)
+. 👤 [Ming-Hsuan Yang 杨明轩] 🇺🇸 professor at University of California, Merced [[Homepage]](http://faculty.ucmerced.edu/mhyang/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/y/Yang_0001:Ming=Hsuan) [[Google Scholar]](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=en)
 
 . 👤 [Haibin Ling 凌海滨] 🇺🇸 Associate Professor at Temple University [[Homepage]](http://www.dabi.temple.edu/~hbling/)
 
-. 👤 [Huchuan Lu 卢湖川] 🇨🇳 Professor at Dalian University of Technology (大连理工大学) [[Homepage]](http://ice.dlut.edu.cn/lu/) 
+. 👤 [Huchuan Lu 卢湖川] 🇨🇳 Professor at Dalian University of Technology (大连理工大学) [[Homepage]](http://ice.dlut.edu.cn/lu/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/l/Lu:Huchuan)
 
-. 👤 [Li Fei-Fei 李飞飞] 🇺🇸 Associate Professor at Stanford University [[Twitter]](https://twitter.com/drfeifei)
+. 👤 [Li Fei-Fei 李飞飞] 🇺🇸 Associate Professor at Stanford University [[DBLP]](http://dblp.uni-trier.de/pers/hd/l/Li:Fei=Fei) [[Twitter]](https://twitter.com/drfeifei)
 
 . 👤 [Zhi-Hua Zhou 周志华] 🇨🇳 Professor at Nanjing University (南京大学) [[Homepage]](https://cs.nju.edu.cn/zhouzh/) [[Publications]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/publication.htm)
 
 . 👤 [Tianzhu Zhang 张天柱] 🇨🇳 Associate Professor at NLPR of CAS (中国科学院模式识别国家实验室) [[Homepage]](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=9sCGe-gAAAAJ) [[DBLP]](http://dblp.uni-trier.de/pers/hy/z/Zhang:Tianzhu.html)
 
-. 👤 [Martin Danelljan] 🇸🇪 Ph.D. student at Linköping University [[Homepage]](http://users.isy.liu.se/en/cvl/marda26/) [[Google Scholar]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) [[Github]](https://github.com/martin-danelljan) [[DBLP]](http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin)
+. 👤 [Martin Danelljan] 🇸🇪 Ph.D. student at Linköping University [[Homepage]](http://users.isy.liu.se/en/cvl/marda26/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin) [[Google Scholar]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) [[Github]](https://github.com/martin-danelljan)
+
+. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=lkWfR08AAAAJ)
 
 ---
 
@@ -121,7 +121,7 @@
 
 . 🇺🇸 UCM Vision and Learning Lab [🏛](http://vllab.ucmerced.edu/) 🚩
 
-. 🇨🇳 The National Laboratory of Pattern Recognition at the Institute of Automation of the Chinese Academy of Sciences [🏛](http://www.nlpr.ia.ac.cn/CN/model/index.shtml)
+. 🇨🇳 The National Laboratory of Pattern Recognition of CAS [🏛](http://www.nlpr.ia.ac.cn/CN/model/index.shtml)
 
 · 🇺🇸 THE Computer Vision Foundation [🏛](https://www.thecvf.com/)
 
@@ -136,5 +136,7 @@
 . 🎈 [DBLP] the on-line reference for bibliographic information on major computer science publications. [🏛](http://dblp.uni-trier.de)
 
 . 🎈 [Arxiv] an e-print service in the fields of physics, mathematics, computer science, etc. [🏛](https://arxiv.org)
+
+. 🎈 [Sci-Hub] remove all barrierrs in way of science [🏛](http://www.sci-hub.cc)
 
 ---
