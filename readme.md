@@ -1,4 +1,4 @@
-
+﻿
 ---
 
 #### Conferences & Workshops
@@ -17,7 +17,7 @@
 
 ---
 
-#### ArXiv
+#### Series
 
 . 💎 [CoRR] The Computing Research Repository [[ArXiv]](https://arxiv.org/corr/home) [[DBLP]](http://dblp.uni-trier.de/db/journals/corr/index.html) [[cs.CV]](https://arxiv.org/list/cs.CV/recent)
 
@@ -100,9 +100,9 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 
 . 👤 [Li Fei-Fei 李飞飞] 🇺🇸 Associate Professor at Stanford University [[DBLP]](http://dblp.uni-trier.de/pers/hd/l/Li:Fei=Fei) [[Twitter]](https://twitter.com/drfeifei)
 
-. 👤 [Zhi-Hua Zhou 周志华] 🇨🇳 Professor at Nanjing University (南京大学) [[Homepage]](https://cs.nju.edu.cn/zhouzh/) [[Publications]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/publication.htm)
+. 👤 [Zhi-Hua Zhou 周志华] 🇨🇳 Professor at Nanjing University (南京大学) [[Homepage]](https://cs.nju.edu.cn/zhouzh/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/z/Zhou:Zhi=Hua)
 
-. 👤 [Tianzhu Zhang 张天柱] 🇨🇳 Associate Professor at NLPR of CAS (中国科学院模式识别国家实验室) [[Homepage]](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=9sCGe-gAAAAJ) [[DBLP]](http://dblp.uni-trier.de/pers/hy/z/Zhang:Tianzhu.html)
+. 👤 [Tianzhu Zhang 张天柱] 🇨🇳 Associate Professor at NLPR of CAS (中国科学院模式识别国家实验室) [[Homepage]](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=9sCGe-gAAAAJ) [[DBLP]](http://dblp.uni-trier.de/pers/hy/z/Zhang:Tianzhu.html) [[Weibo]](https://weibo.com/zhouzh2012)
 
 . 👤 [Martin Danelljan] 🇸🇪 Ph.D. student at Linköping University [[Homepage]](http://users.isy.liu.se/en/cvl/marda26/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin) [[Google Scholar]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) [[Github]](https://github.com/martin-danelljan)
 
@@ -112,13 +112,17 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 
 #### Orgnizations , Institutes and Teams
 
+. 🇮🇹 Media Integration and Communication Center, University of Florence [🏛](https://www.micc.unifi.it/)
+
+. 🇪🇸 Computer Vision Centre Barcelona, Universitat Autonoma de Barcelona [🏛](http://www.cvc.uab.es/)
+
 . 🇨🇭 ETH Zurich Computer Vision Lab [🏛](http://www.vision.ee.ethz.ch/)
 
 . 🇨🇿 Center for Machine Perception of Czech Technical University  [🏛](http://cmp.felk.cvut.cz/)
 
 . 🇸🇮 University of Ljubljana Visual Cognitive Systems Laboratory  [🏛](http://www.vicos.si/)
 
-. 🇸🇪 Linköping University Computer Vision Laboratory [🏛](http://www.cvl.isy.liu.se/) 🚩
+. 🇸🇪 Computer Vision Laboratory, Linköping University [🏛](http://www.cvl.isy.liu.se/) 🚩
 
 . 🇺🇸 UCM Vision and Learning Lab [🏛](http://vllab.ucmerced.edu/) 🚩
 
@@ -139,5 +143,7 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 . 🎈 [Arxiv] an e-print service in the fields of physics, mathematics, computer science, etc. [🏛](https://arxiv.org)
 
 . 🎈 [Sci-Hub] remove all barrierrs in way of science [🏛](http://www.sci-hub.cc)
+
+. 🎈 [zbMATH] provides easy access to bibliographic data, reviews and abstracts from all areas of pure mathematics as well as applications, in particular to the natural sciences, computer science, economics and engineering [🏛](https://zbmath.org/)
 
 ---
