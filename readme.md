@@ -9,7 +9,7 @@
 
 · 📘 [NIPS] Neural Information Processing Systems Conference 🎉 [[Advances in NIPS]](http://papers.nips.cc/)
 
-. 📘 [AAAI] the Association for the Advance of Artificial Intelligence Conference 🎉 [[AAAI Digital Library]](https://aaai.org/Library/library.php)
+. 📘 [AAAI] the Association for the Advance of Artificial Intelligence Conference 🎉 [[AAAI Digital Library]](https://aaai.org/Library/AAAI/aaai-library.php)
 
 . 📘 [ECCV] European Conference on Computer Vision 🎉 [[SpringerLink]](https://link.springer.com/conference/eccv)
 
@@ -62,7 +62,7 @@
 
 . 📓 [JVCIR] [Journal of Visual Communication and Image Representation](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/jvcir/)
 
-. 📓 [ML] [Machine Learning ](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/ml/)
+. 📓 [ML] [Machine Learning ](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/ml/) 🚩
 
 . 📓 [MLC] [International Journal of Machine Learning and Cybernetics](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/mlc/)
 
@@ -70,9 +70,9 @@
 
 . 📓 [MVA] [Machine Vision and Applications](#) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/mva/)
 
-. 📓 [PAMI] [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/pami/)
+. 📓 [PAMI] [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/pami/) 🚩
 
-. 📓 [PR] [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/pr/)
+. 📓 [PR] [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/pr/) 🚩
 
 . 📓 [THMS] [IEEE Transactions on Human-Machine Systems](http://www.ieee-smc.org/) 🚀 [[DBLP]](http://dblp.uni-trier.de/db/journals/thms/) [[Xplore]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)
 
@@ -111,6 +111,8 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 ---
 
 #### Orgnizations , Institutes and Teams
+
+. 🇨🇳 Multimedia Laboratory , The Chinese University of Hong Kong 香港中文大学 [🏛](http://mmlab.ie.cuhk.edu.hk/)
 
 . 🇮🇹 Media Integration and Communication Center, University of Florence [🏛](https://www.micc.unifi.it/)
 
