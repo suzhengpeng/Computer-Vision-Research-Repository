@@ -106,9 +106,9 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 
 . 👤 [Martin Danelljan] 🇸🇪 Ph.D. student at Linköping University [[Homepage]](http://users.isy.liu.se/en/cvl/marda26/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin) [[Google Scholar]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) [[Github]](https://github.com/martin-danelljan)
 
-. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?user=lkWfR08AAAAJ)
+. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?user=lkWfR08AAAAJ) [[FOLLOW]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ#d=gsc_md_fol&p=&u=)
 
-. 👤 [Jongwon Choi] 🇰🇷 [[❤️FOLLOW]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ#d=gsc_md_fol&p=&u=) Ph.D. student at Seoul National University [[Google Scholar]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ)
+. 👤 [Jongwon Choi] 🇰🇷  Ph.D. student at Seoul National University [[Homepage]](https://sites.google.com/site/jwchoivision/) [[Google Scholar]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ) [[FOLLOW]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ#d=gsc_md_fol&p=&u=)
 
 ---
 
