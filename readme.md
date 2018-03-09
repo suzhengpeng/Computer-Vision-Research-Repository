@@ -106,13 +106,15 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 
 . 👤 [Martin Danelljan] 🇸🇪 Ph.D. student at Linköping University [[Homepage]](http://users.isy.liu.se/en/cvl/marda26/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin) [[Google Scholar]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) [[Github]](https://github.com/martin-danelljan)
 
-. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=lkWfR08AAAAJ)
+. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?user=lkWfR08AAAAJ)
+
+. 👤 [Jongwon Choi] 🇰🇷 [[❤️FOLLOW]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ#d=gsc_md_fol&p=&u=) Ph.D. student at Seoul National University [[Google Scholar]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ)
 
 ---
 
 #### Orgnizations , Institutes and Teams
 
-. 🇨🇳 Multimedia Laboratory , The Chinese University of Hong Kong 香港中文大学 [🏛](http://mmlab.ie.cuhk.edu.hk/)
+. 🇨🇳 Multimedia Laboratory , The Chinese University of Hong Kong (香港中文大学) [🏛](http://mmlab.ie.cuhk.edu.hk/)
 
 . 🇮🇹 Media Integration and Communication Center, University of Florence [🏛](https://www.micc.unifi.it/)
 
@@ -128,7 +130,7 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 
 . 🇺🇸 UCM Vision and Learning Lab [🏛](http://vllab.ucmerced.edu/) 🚩
 
-. 🇨🇳 The National Laboratory of Pattern Recognition of CAS [🏛](http://www.nlpr.ia.ac.cn/CN/model/index.shtml)
+. 🇨🇳 The National Laboratory of Pattern Recognition of CAS (中国科学院) [🏛](http://www.nlpr.ia.ac.cn/CN/model/index.shtml)
 
 · 🇺🇸 THE Computer Vision Foundation [🏛](https://www.thecvf.com/)
 
