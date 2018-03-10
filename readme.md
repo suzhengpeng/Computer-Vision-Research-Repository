@@ -104,9 +104,9 @@ Example : [Scholar] 🏁 Affiliation [Homepage] [DBLP] [Google Scholar] [Github]
 
 . 👤 [Tianzhu Zhang 张天柱] 🇨🇳 Associate Professor at NLPR of CAS (中国科学院模式识别国家实验室) [[Homepage]](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=9sCGe-gAAAAJ) [[DBLP]](http://dblp.uni-trier.de/pers/hy/z/Zhang:Tianzhu.html) [[Weibo]](https://weibo.com/zhouzh2012)
 
-. 👤 [Martin Danelljan] 🇸🇪 Ph.D. student at Linköping University [[Homepage]](http://users.isy.liu.se/en/cvl/marda26/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin) [[Google Scholar]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) [[Github]](https://github.com/martin-danelljan)
+. 👤 [Martin Danelljan] 🇸🇪 Ph.D. student at Linköping University [[Homepage]](http://users.isy.liu.se/en/cvl/marda26/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin) [[Google Scholar]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) [[Github]](https://github.com/martin-danelljan)  [[FOLLOW]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ#d=gsc_md_fol&p=&u=)
 
-. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?user=lkWfR08AAAAJ) [[FOLLOW]](https://scholar.google.com/citations?user=NCSSpMkAAAAJ#d=gsc_md_fol&p=&u=)
+. 👤 [Michael Felsberg] 🇸🇪 Professor at Linköping University [[Homepage]](http://people.isy.liu.se/cvl/mfe/) [[DBLP]](http://dblp.uni-trier.de/pers/hd/f/Felsberg:Michael) [[Google Scholar]](https://scholar.google.com/citations?user=lkWfR08AAAAJ) [[FOLLOW]](https://scholar.google.com/citations?user=lkWfR08AAAAJ#d=gsc_md_fol&p=&u=)
 
 . 👤 [Jongwon Choi] 🇰🇷  Ph.D. student at Seoul National University [[Homepage]](https://sites.google.com/site/jwchoivision/) [[Google Scholar]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ) [[FOLLOW]](https://scholar.google.com/citations?user=F3u9qHcAAAAJ#d=gsc_md_fol&p=&u=)
 
